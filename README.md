@@ -1,4 +1,4 @@
-# Image-forgery-detection
+# Plant leaf classification
 
 For project information, refer **project report.docx**.
 
